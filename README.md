@@ -7,10 +7,13 @@ This analysis explores temperatures trends in Oahu to help determine if the surf
 ## Results 
 Bulleted list with three major points from the two analysis deliverables (addresses the 3 key differences)
 
-### Summary Statistics for June 
+### June Summary Statistics
 
+![june summary statistics](https://user-images.githubusercontent.com/90656004/145335246-922cc337-b83d-48ed-9878-be35de7b4783.PNG)
 
-### Summary Statistics for December
+### December Summary Statistics
+
+![december summary statistics](https://user-images.githubusercontent.com/90656004/145335240-5d6902e7-d540-4397-8e69-fd4e372d1eba.PNG)
 
 
 ## Summary
