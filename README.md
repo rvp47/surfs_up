@@ -2,11 +2,11 @@
 
 ## Overview of the analysis
 
-This analysis explores temperatures trends in Oahu to help determine if the surf and ice cream shop business would be sustainable year-round. It looks at the differences in weather between June and December using Python, Pandas functions and methods, and SQLAlchemy. The analysis involves retrieving temperature data, converting them to lists, creating DataFrames, and and generating summary statistics for the months of June and December. At the end of this analysis, recommendations will be provided for further analysis.
+This analysis explores temperatures trends in Oahu to help determine if the surf and ice cream shop business would be sustainable year-round. It looks at the differences in weather between June and December using Python, Pandas functions and methods, and SQLAlchemy. The analysis involves retrieving temperature data, converting them to lists, creating DataFrames, and generating summary statistics for the months of June and December. At the end of this analysis, recommendations will be provided for further analysis.
 
 ## Results 
 
-- The first immediate difference was in the number of times the temperature was taken during each month. June had 183 more counts, which may impact the accuracy of the summary statics for the month. 
+- The first immediate difference was in the number of times the temperature was taken during each month. June had 183 more counts, which may impact the accuracy of the summary statistics for the month. 
 - The lower temperatures showed the biggest diffience as June had a low of 64°F and December had a low of 56°F. 
 - There was slightly higher variability (based on standard deviation) in the month of December. 
 
@@ -22,4 +22,4 @@ This analysis explores temperatures trends in Oahu to help determine if the surf
 ## Summary
 Overall, there is not a substantial difference between the weather in June and December. The highest, lowest, and average temperatures are similar enough to be able to assume that the surf and ice cream shop would be successful no matter the season in Oahu.
 
-Further analysis can involve looking at other weather conditions like precipitation and humidity in June and December. Both weather conditions can have an impact on whether potential customers will want to venture out and then patron this shop. It would be interesting to see which month has higher humidity, which has more precipitation and then compare that to the temperature. Perhaps these additional queries would get more insight about how weather may affect the surf and ice cream shop's sustainabiltiy and success.
+Further analysis can involve looking at other weather conditions like precipitation and humidity in June and December. Both weather conditions can have an impact on whether potential customers will want to venture out and then patronize this shop. It would be interesting to see which month has higher humidity, which has more precipitation and then compare that to the temperature. Perhaps these additional queries would get more insight about how weather may affect the surf and ice cream shop's sustainabiltiy and success.
